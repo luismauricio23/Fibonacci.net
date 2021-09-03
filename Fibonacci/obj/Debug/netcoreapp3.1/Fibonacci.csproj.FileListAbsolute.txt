@@ -1,0 +1,13 @@
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\lmrse\OneDrive\Escritorio\Universidad de Caldas semestre 6\Desarrollo de Sistemas de Información  Empresariales\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
